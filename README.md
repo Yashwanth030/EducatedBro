@@ -1,4 +1,4 @@
-# 🎓 EduEmpower
+# 🎓 EducatedBro
 
 A simple JS-based educational web platform with curated resources, tools, and book links — ideal for students and educators.
 
