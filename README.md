@@ -9,5 +9,21 @@ A simple JS-based educational web platform with curated resources, tools, and bo
 - Teacher-specific resource section
 - 100% front-end, no backend needed
 
-## 📁 Structure
+
+## 🛠 Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- Google Books API
+
+## 💡 Run Locally
+1. Clone or download this repository
+2. Open `index.html` in your browser
+3. Done ✅
+
+
+## 📝 License
+MIT License
+
+
 
